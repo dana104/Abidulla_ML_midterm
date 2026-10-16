@@ -1,0 +1,8 @@
+.DS_Store
+.venv/
+.*_ML_task_3/
+.ipynb_checkpoints/
+__pycache__/
+.ruff_cache/
+answer_key/
+make_dataset.py
